@@ -335,4 +335,8 @@ textarea{
     padding: 20px 40px;
     font-size: 20px;
 }
+.hover:hover{
+    background-color: #0e0e0e42;
+    color: #0E0E0E;
+}
 
